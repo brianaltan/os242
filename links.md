@@ -10,5 +10,6 @@ permalink: LINKS/
 * [Tar Cheat Sheet](https://linuxopsys.com/tar-cheat-sheet-quick-reference-guide) - This guide provides a comprehensive cheat sheet for the tar command, covering commonly used options and examples.
 * [xz in Linux](https://www.baeldung.com/linux/xz-compression) - Learn how to use xz, a compression format that creates smaller archives than gzip, in Linux command line.
 * [Unix Tutorial](https://www.geeksforgeeks.org/linux-tutorial) - Collections of Linux interview questions to enhance your understanding of this operating system.
+* [Debian Users' Manuals](https://www.debian.org/doc/user-manuals) - This manual describes the Debian GNU/Linux operating system and within the Debian project.
 <br>
 <hr>
