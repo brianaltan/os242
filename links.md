@@ -11,5 +11,6 @@ permalink: LINKS/
 * [xz in Linux](https://www.baeldung.com/linux/xz-compression) - Learn how to use xz, a compression format that creates smaller archives than gzip, in Linux command line.
 * [Unix Tutorial](https://www.geeksforgeeks.org/linux-tutorial) - Collections of Linux interview questions to enhance your understanding of this operating system.
 * [Debian Users' Manuals](https://www.debian.org/doc/user-manuals) - This manual describes the Debian GNU/Linux operating system and within the Debian project.
+* [LFS Trac Wiki](https://wiki.linuxfromscratch.org/lfs/) - Step-by-step instructions for building your own customized Linux system entirely from source.
 <br>
 <hr>
